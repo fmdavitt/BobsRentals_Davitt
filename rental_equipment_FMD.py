@@ -8,8 +8,9 @@
 #
 # Notes:
 # Hello Mrs. Brockman,
-# It's Finn again. Here is the rental_equipment_FMD.py partition of my Final Part 1 submission.
-# I hope you have a great day and a great week. Ciao!
+# It's Finn again. Here is the rental_equipment_FMD.py partition 
+# of my Final Part 1 submission.
+# I hope you have a great day and a great week, ciao!
 #
 #<-------------------------------------------------------------->
 

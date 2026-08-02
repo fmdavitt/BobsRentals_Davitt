@@ -1,6 +1,6 @@
 #<-------------------------------------------------------------->
 #
-# .py/assignment designation: ski_FMD.py
+# .py/assignment designation: snowboard_FMD.py
 #
 #<-------------------------------------------------------------->
 
@@ -8,8 +8,8 @@
 #
 # Notes:
 # Hello Mrs. Brockman,
-# It's Finn again. Here is the ski_FMD.py partition
-# of my Final Part 1 submission.
+# It's Finn again. Here is the snowboard_FMD.py
+# partition of my Final Part 1 submission.
 # I hope you have a great day and a great week, ciao!
 #
 #<-------------------------------------------------------------->
@@ -17,16 +17,16 @@
 from rental_equipment_FMD import RentalEquipment
 
 
-class Ski(RentalEquipment):
+class Snowboard(RentalEquipment):
 
     def __init__(self):
 
         RentalEquipment.__init__(
             self,
-            "Ski",
-            15.00,
-            50.00,
-            200.00
+            "Snowboard",
+            10.00,
+            40.00,
+            160.00
         )
 
     # ----------------------------------------------------------
@@ -35,6 +35,6 @@ class Ski(RentalEquipment):
 
     def display_equipment(self):
 
-        print("Equipment Type: Ski")
+        print("Equipment Type: Snowboard")
 
         RentalEquipment.display_equipment(self)
